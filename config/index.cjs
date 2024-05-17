@@ -17,7 +17,7 @@ const USER_CONFIG = {
 	"USERS": [{
 		"name": "test",
 		"id": "oxXP96ZS3wGhJokGIi9WjF_cOsG0",
-		"useTemplateId": "3cko73FsVbYSio_8l2g30F0xFkRqJVLwfEJtPp6a5Jw",
+		"useTemplateId": "96IKk2CkKRP5_vSD3Q1u8pvvJFdbM5LYa0kWQT2S000",
 		"province": "浙江",
 		"city": "绍兴",
 		"horoscopeDate": "05-02",
