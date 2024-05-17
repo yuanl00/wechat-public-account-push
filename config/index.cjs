@@ -17,7 +17,7 @@ const USER_CONFIG = {
 	"USERS": [{
 		"name": "test",
 		"id": "oxXP96ZS3wGhJokGIi9WjF_cOsG0",
-		"useTemplateId": "pjSSbsd23hDmBv04H4Q5sVtWTogpbHYZNvqE84G4xvY",
+		"useTemplateId": "9N1njP-pA7ydII6O6nRICLdQpF1HOnTwL9SRIandlSA",
 		"province": "浙江",
 		"city": "绍兴",
 		"horoscopeDate": "05-02",
@@ -26,8 +26,8 @@ const USER_CONFIG = {
 		"festivals": [{
 			"type": "生日",
 			"name": "生日",
-			"date": "05-14",
-			"year": "2024"
+			"date": "01-29",
+			"year": "1991"
 		}],
 		"customizedDateList": []
 	}],
