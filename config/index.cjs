@@ -57,7 +57,7 @@ const USER_CONFIG = {
 		"CIBA": false,
 		"oneTalk": true,
 		"earthyLoveWords": true,
-		"momentCopyrighting": false,
+		"momentCopyrighting": true,
 		"poisonChickenSoup": false,
 		"poetry": true,
 		"horoscope": false,
