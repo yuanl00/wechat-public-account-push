@@ -6,6 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+	"USE_PASSAGE": 'push-plus',
 	"APP_ID": "wx35e06cb060eb2ef0",
 	"APP_SECRET": "30812b53c5476da8fe20e0efcc1893ca",
 	"IS_SHOW_COLOR": false,
@@ -16,8 +17,8 @@ const USER_CONFIG = {
 	}],
 	"USERS": [{
 		"name": "test",
-		"id": "oxXP96ZS3wGhJokGIi9WjF_cOsG0",
-		"useTemplateId": "GBszg45xxRdePCaSuPOVHlwsnKYsKmcJGQiq3PaX674",
+		"id": "e1102d1bde264b459b5ba2012f8002bc",
+		"useTemplateId": "001",
 		"province": "上海",
 		"city": "闵行",
 		"horoscopeDate": "05-02",
@@ -31,23 +32,23 @@ const USER_CONFIG = {
 		}],
 		"customizedDateList": []
 	},
-	{
-		"name": "test1",
-		"id": "oxXP96SaDjMsVaImz4neKqkkjjbo",
-		"useTemplateId": "GBszg45xxRdePCaSuPOVHlwsnKYsKmcJGQiq3PaX674",
-		"province": "浙江",
-		"city": "绍兴",
-		"horoscopeDate": "05-02",
-		"horoscopeDateType": "今日",
-		"openUrl": "https://shuangxunian.github.io/",
-		"festivals": [{
-			"type": "生日",
-			"name": "生日",
-			"date": "01-29",
-			"year": "1991"
-		}],
-		"customizedDateList": []
-	}		 
+	// {
+	// 	"name": "test1",
+	// 	"id": "oxXP96SaDjMsVaImz4neKqkkjjbo",
+	// 	"useTemplateId": "GBszg45xxRdePCaSuPOVHlwsnKYsKmcJGQiq3PaX674",
+	// 	"province": "浙江",
+	// 	"city": "绍兴",
+	// 	"horoscopeDate": "05-02",
+	// 	"horoscopeDateType": "今日",
+	// 	"openUrl": "https://shuangxunian.github.io/",
+	// 	"festivals": [{
+	// 		"type": "生日",
+	// 		"name": "生日",
+	// 		"date": "01-29",
+	// 		"year": "1991"
+	// 	}],
+	// 	"customizedDateList": []
+	// }		 
 		 
 		 ],
 	TIAN_API: {
