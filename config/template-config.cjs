@@ -19,8 +19,9 @@ const TEMPLATE_CONFIG = [
       风向: {{tian_api_weather_wind_0.DATA}}
       
       风级: {{tian_api_weather_windsc_0.DATA}}
-      
-       {{tian_api_weather_tips_0.DATA}}{{tian_api_weather_tips_1.DATA}｝{{tian_api_weather_tips_2.DATA}}{{tian_api_weather_tips_3.DATA}}{{tian_api_weather_tips_4.DATA}}{{tian_api_weather_tips_5.DATA}}
+
+      温馨提醒：{{ganmao.DATA}}
+      {{tian_api_weather_tips_0.DATA}}{{tian_api_weather_tips_1.DATA}｝{{tian_api_weather_tips_2.DATA}}{{tian_api_weather_tips_3.DATA}}{{tian_api_weather_tips_4.DATA}}{{tian_api_weather_tips_5.DATA}}
 
       
       ---
