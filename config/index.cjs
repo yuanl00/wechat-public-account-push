@@ -30,7 +30,9 @@ const USER_CONFIG = {
 			"date": "05-27",
 			"year": "1990"
 		}],
-		"customizedDateList": []
+		"customizedDateList": [
+			 { keyword: 'love_day', date: '2024-05-05' },
+		]
 	},
 	// {
 	// 	"name": "test1",
