@@ -31,8 +31,8 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      
-      {{poetry_title.DATA}} * {{poetry_content.DATA}}
+      {{wx_earthy_love_words_0.DATA}} {{wx_earthy_love_words_1.DATA}} {{wx_earthy_love_words_2.DATA}}{{wx_earthy_love_words_3.DATA}}{{wx_earthy_love_words_4.DATA}}
+     
     `
   },
   {
