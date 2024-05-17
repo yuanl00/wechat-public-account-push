@@ -2,25 +2,26 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '❤️亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}
+      // 下个休息日：{{holidaytts.DATA}}
       
       ---
       
       城市：{{city.DATA}}
       
-      天气：{{weather.DATA}}
+      天气：{{tian_api_weather_weather_0.DATA}}
       
-      气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
+      气温:{{tian_api_weather_lowest_0.DATA}}°c ~ {{tian_api_weather_highest_0.DATA}} °c
       
-      风向: {{wind_direction.DATA}}
+      风向: {{tian_api_weather_wind_0.DATA}}
       
-      风级: {{wind_scale.DATA}}
+      风级: {{tian_api_weather_windsc_0.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
+       {{tian_api_weather_tips_0.DATA}}{{tian_api_weather_tips_1.DATA}｝{{tian_api_weather_tips_2.DATA}}{{tian_api_weather_tips_3.DATA}}{{tian_api_weather_tips_4.DATA}}{{tian_api_weather_tips_5.DATA}}
+
       
       ---
       
