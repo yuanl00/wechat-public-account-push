@@ -32,7 +32,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{poetry_title.DATA}} * {{poetry_content.DATA}}
     `
   },
   {
