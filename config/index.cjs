@@ -17,7 +17,7 @@ const USER_CONFIG = {
 	"USERS": [{
 		"name": "test",
 		"id": "oxXP96ZS3wGhJokGIi9WjF_cOsG0",
-		"useTemplateId": "kM6MfVr8Ko6AbrJ1T0VBNr_Fg2-54cJJLlTnd90mUQg",
+		"useTemplateId": "h4Lh7OFos8V7JKW62lhwSlU4y5dd6XaryWdlzNHc7S4",
 		"province": "浙江",
 		"city": "绍兴",
 		"horoscopeDate": "05-02",
@@ -55,11 +55,11 @@ const USER_CONFIG = {
 		"weather": true,
 		"holidaytts": true,
 		"CIBA": false,
-		"oneTalk": false,
+		"oneTalk": true,
 		"earthyLoveWords": true,
 		"momentCopyrighting": false,
 		"poisonChickenSoup": false,
-		"poetry": false,
+		"poetry": true,
 		"horoscope": false,
 		"birthdayMessage": true
 	}
