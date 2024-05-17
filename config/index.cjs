@@ -18,6 +18,23 @@ const USER_CONFIG = {
 		"name": "test",
 		"id": "oxXP96ZS3wGhJokGIi9WjF_cOsG0",
 		"useTemplateId": "GBszg45xxRdePCaSuPOVHlwsnKYsKmcJGQiq3PaX674",
+		"province": "上海",
+		"city": "闵行",
+		"horoscopeDate": "05-02",
+		"horoscopeDateType": "今日",
+		"openUrl": "https://shuangxunian.github.io/",
+		"festivals": [{
+			"type": "生日",
+			"name": "生日",
+			"date": "05-27",
+			"year": "1990"
+		}],
+		"customizedDateList": []
+	},
+	{
+		"name": "test1",
+		"id": "oxXP96SaDjMsVaImz4neKqkkjjbo",
+		"useTemplateId": "GBszg45xxRdePCaSuPOVHlwsnKYsKmcJGQiq3PaX674",
 		"province": "浙江",
 		"city": "绍兴",
 		"horoscopeDate": "05-02",
@@ -30,7 +47,9 @@ const USER_CONFIG = {
 			"year": "1991"
 		}],
 		"customizedDateList": []
-	}],
+	}		 
+		 
+		 ],
 	TIAN_API: {
 	    // 天行API KEY，如果使用天行API则需要填写此项
 	    key: '9723b13e791c15b44313964c7dc557bd',
