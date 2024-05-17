@@ -36,7 +36,7 @@ const USER_CONFIG = {
 	},
 	{
 		"name": "test1",
-		"id": "e1102d1bde264b459b5ba2012f8002bc",
+		"id": "e663054d678d4d458317035a3063c2b5",
 		"useTemplateId": "0001",
 		"province": "浙江",
 		"city": "绍兴",
