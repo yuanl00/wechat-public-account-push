@@ -7,6 +7,7 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       
        {{moment_copyrighting.DATA}}
+       
       ---
       
       城市：{{city.DATA}}
