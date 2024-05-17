@@ -4,7 +4,7 @@ const TEMPLATE_CONFIG = [
     id: '0001',
     title: 'Hey, baby',
     desc: `
-      **{{date.DATA}}**
+      **🗓️{{date.DATA}}**
       
        {{moment_copyrighting.DATA}}
        
