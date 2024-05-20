@@ -25,7 +25,7 @@ const USER_CONFIG = {
 		"horoscopeDateType": "今日",
 		"openUrl": "https://shuangxunian.github.io/",
 		"festivals": [{
-			"type": "生日",
+			"type": "*生日",
 			"name": "生日",
 			"date": "05-27",
 			"year": "1990"
@@ -44,9 +44,9 @@ const USER_CONFIG = {
 		"horoscopeDateType": "今日",
 		"openUrl": "https://shuangxunian.github.io/",
 		"festivals": [{
-			"type": "生日",
-			"name": "生日",
-			"date": "01-29",
+			"type": "*生日",
+			"name": "宝贝",
+			"date": "12-19",
 			"year": "1991"
 		}],
 		"customizedDateList": [
