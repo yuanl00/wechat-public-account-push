@@ -34,25 +34,25 @@ const USER_CONFIG = {
 			 { keyword: 'love_day', date: '2024-05-05' },
 		]
 	},
-	{
-		"name": "test1",
-		"id": "e663054d678d4d458317035a3063c2b5",
-		"useTemplateId": "0001",
-		"province": "浙江",
-		"city": "绍兴",
-		"horoscopeDate": "05-02",
-		"horoscopeDateType": "今日",
-		"openUrl": "https://shuangxunian.github.io/",
-		"festivals": [{
-			"type": "*生日",
-			"name": "宝贝",
-			"date": "12-19",
-			"year": "1991"
-		}],
-		"customizedDateList": [
-			 { keyword: 'love_day', date: '2024-05-05' },
-		]
-	}		 
+	// {
+	// 	"name": "test1",
+	// 	"id": "e663054d678d4d458317035a3063c2b5",
+	// 	"useTemplateId": "0001",
+	// 	"province": "浙江",
+	// 	"city": "绍兴",
+	// 	"horoscopeDate": "05-02",
+	// 	"horoscopeDateType": "今日",
+	// 	"openUrl": "https://shuangxunian.github.io/",
+	// 	"festivals": [{
+	// 		"type": "*生日",
+	// 		"name": "宝贝",
+	// 		"date": "12-19",
+	// 		"year": "1991"
+	// 	}],
+	// 	"customizedDateList": [
+	// 		 { keyword: 'love_day', date: '2024-05-05' },
+	// 	]
+	// }		 
 		 
 		 ],
 	TIAN_API: {
